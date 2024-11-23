@@ -1,0 +1,7 @@
+python-dotenv
+pymongo
+certifi
+pandas
+numpy
+
+##-e .
